@@ -4,6 +4,7 @@ Template for printing a list of hold requests for a patron. Fields include:
 * holds - a list of hold request, each of which includes
  
   * title
+  * author
 
 -->
 <div>
